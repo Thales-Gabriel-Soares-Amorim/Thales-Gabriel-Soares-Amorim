@@ -8,7 +8,10 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/>
 
 ## Where to find me
+<div>
 
+<a href="https://https://www.linkedin.com/in/thales-gabriel-27b800306/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
